@@ -36,7 +36,7 @@ warnings.filterwarnings("ignore")
 try:
     plt.rcParams.update({
         "font.family": "serif",
-        "font.serif": ["Times New Roman"],
+        "font.serif": ["Times New Roman", "DejaVu Serif", "Liberation Serif", "serif"],
         "mathtext.fontset": "stix",
         "font.size": 11,
         "axes.linewidth": 1.0,
