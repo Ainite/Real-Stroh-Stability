@@ -5,7 +5,7 @@
 
 **"Engineering Stability Band-Gaps in Graded Soft Matter: Mode Duality and Inverse Spectral Design"**
 *Feng Yang, et al.*
-*Submitted to Journal of the Mechanics and Physics of Solids (JMPS)*
+*Submitted to International Journal of Solids and Structures (IJSS)*
 
 ## 📖 Description
 
